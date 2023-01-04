@@ -1,0 +1,148 @@
+.navbar{
+    background-color: rgb(93, 170, 93);
+    height: 90px;
+}
+
+body{
+    background-image: url(./img/cover.PNG);
+    background-size: cover;
+}
+
+.navbar h2{
+    color: rgb(6, 44, 6);
+    font-weight: bold;
+    font-family: 'Gill Sans';
+    margin-top: 0%;
+    margin-left: 2rem;
+    margin-bottom: 1.5%;
+}
+
+.fa-cart-shopping{
+    color:rgb(10, 70, 10); ;
+    float: right;
+    font-size: 37px;
+    cursor: pointer;
+    margin-right: 3.5rem;
+}
+
+.fa-cart-shopping:hover{
+    color: rgba(161, 212, 41, 0.836);
+}
+
+.fa-plate-wheat{
+    color: rgb(207, 159, 69);
+    font-size: 40px;
+    margin-left: 3.5rem;
+    margin-bottom: 0;
+}
+
+.container{
+    margin: auto;
+    margin-top: 50px;
+}
+
+.menu{
+    width: 20rem;
+}
+
+.menu img{
+    width: 1200px;
+    height: 200px;
+    border-radius: 17px;
+}
+.menu h3{
+    font-weight: bold;
+    color: rgb(10, 70, 10);
+}
+
+.menu h5{
+    color: black;
+}
+
+.menu h4{
+    margin-top: 0;
+    color: black;
+    font-weight: bold;
+}
+.menu a{
+    margin-bottom: 45px;
+}
+
+.col-md-, .col-lg-4{
+    margin-bottom: 0px;
+}
+.sty{
+    font-size: 10px !important;
+    color: black !important;
+}
+
+.sty h3{
+    font-weight: bold;
+    color: rgb(10, 70, 10);
+}
+
+
+.uk-border-circle{
+    width: 50px !important;
+    height: 50px !important;
+}
+.order h3{
+    font-size: 15px;
+    font-weight: bold
+}
+
+footer{
+    background-color:rgb(93, 170, 93) ;
+    height: auto;
+    padding-top: 20px;
+    color: black;
+}
+
+.logo-footer i{
+    margin-left: 48%;
+    color: rgb(207, 159, 69);
+    font-size: 40px;
+}
+
+.logo-footer h2{
+    margin-top: 0;
+    text-align: center;
+    color: rgb(6, 44, 6);
+    font-weight: bold;
+    font-family: 'Gill Sans'; 
+}
+
+.footer p{
+    text-align: center;
+    font-size: 10px;
+}
+
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem p 1rem 0;
+}
+
+.socials li{
+    margin: 0 10px;
+}
+
+.socials a{
+    font-size: 1.1rem;
+    color:  rgb(6, 44, 6);;
+
+}
+ .socials a:hover{
+    color:whitesmoke;
+ }
+
+ .footer-bottom{
+    font-size: 9px;
+    text-align: center;
+    background-color: rgb(93, 141, 81);
+    color: aliceblue
+ }
+
+ 
